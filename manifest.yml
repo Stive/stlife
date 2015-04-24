@@ -1,0 +1,4 @@
+---
+applications:
+- name: Samrt-Life
+  buildpack: https://github.com/cloudfoundry/php-buildpack#v3.0.4
